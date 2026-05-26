@@ -2,7 +2,7 @@
 
 yo yo whats up skids
 
-heres a asdasdasd in golang 
+heres a HTTP Flooder in golang 
 
 ```bash
 usage...
@@ -17,5 +17,6 @@ then after it should be a .exe or whatever lauch it in a termial and do this rep
 
 i also provided a free header.txt
 
+---
 HAVE FUN SKIDDING!!!
           -potatos1233

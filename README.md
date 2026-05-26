@@ -6,7 +6,7 @@ heres a HTTP Flooder in golang
 install golang for godsakes
 ---
 
-## usage...
+
 
 first you build the go file
 
@@ -24,7 +24,7 @@ launch it in a terminal and do this, replace what you want:
 
 ---
 
-## headers
+
 
 i also provided a free `header.txt`
 
@@ -32,7 +32,7 @@ i also provided a free `header.txt`
 
 HAVE FUN SKIDDING!!!
 
-```
+
           -potatos1233
 ```
 

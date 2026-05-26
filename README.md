@@ -13,3 +13,9 @@ then after it should be a .exe or whatever lauch it in a termial and do this rep
 
 ./filename  <url> <threads> <get/post> <seconds> <header.txt/nil>
 
+```bash
+
+i also provided a free header.txt
+
+HAVE FUN SKIDDING!!!
+              -potatos1233

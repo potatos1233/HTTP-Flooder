@@ -17,6 +17,7 @@ example:
 ./potatos1233.go https://www.leucht.com/ 10000 get  800 header.txt
 
 
-          -potatos1233
+         						 -potatos1233
 
-                    ps.if you have any questions just put em in the issues and if your here to bitch dont
+             							ps.if you have any questions just put em in the issues and if your here to bitch dont
+	

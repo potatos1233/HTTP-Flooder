@@ -1,21 +1,40 @@
+````md
+
 yo yo whats up skids
 
 heres a HTTP Flooder in golang 
+install golang for godsakes
+---
 
-```bash
-usage...
+## usage...
 
 first you build the go file
 
+```bash
 go build filename
+````
 
-then after it should be a .exe or whatever lauch it in a termial and do this replace what you want
+then after it should be a `.exe` or whatever
 
-./filename  <url> <threads> <get/post> <seconds> <header.txt/nil>
+launch it in a terminal and do this, replace what you want:
 
+```bash
+./filename <url> <threads> <get/post> <seconds> <header.txt/nil>
+```
 
+---
 
-i also provided a free header.txt
+## headers
+
+i also provided a free `header.txt`
+
+---
 
 HAVE FUN SKIDDING!!!
-              -potatos1233
+
+```
+          -potatos1233
+```
+
+```
+```

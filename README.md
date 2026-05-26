@@ -10,7 +10,7 @@ install golang for godsakes
 
 first you build the go file
 
-```bash
+
 go build filename
 ````
 
